@@ -23,7 +23,7 @@
    
 ## 环境要求
 -  Android Studio 3.0及以上版本
--  ava JDK 1.8及以上版本
+-  Java JDK 1.8及以上版本
 -  SDK Platform 26及以上版本
 -  Gradle 4.6及以上版本
 	
